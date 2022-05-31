@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋### Hellow there internets, I'm Szymon - aka [Grabiuu] 💫
 
-<!--
-**Grabiuu/Grabiuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm technical school graduate and Musician!
+- 🍀 Open minded, creative, communicative
+- 💥 curiosities: Playing guitar, Singing, and writing poems
+- 🧐 Future scores: Be better, happier, be specialist
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+### My tools 
+
+![Visualstudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
